@@ -47,3 +47,11 @@ Use **SP** instead of **DP** for text, but in places where hight must be set as 
 * **View ids**: *\<screen_name\>\_\<type\>\_\<description\>*, for example: **profile_image_person** / **buy_now_text_sex_value**
 * **Drawables**: *\<type\>\_\<description\>\_\<color\>\_\<size\>*, for example: **ic_add_manual_measurement_white_24dp.
 * **Files**: *\<screen_name\>\_\<type\>*, for example: **ProfileFragment** / **ProfileListAdapter**
+
+### File packaging
+
+By feature, not by layer:
+
+![alt tag](https://www.javacodegeeks.com/wp-content/uploads/2013/04/Layer-by-package2.jpg)
+
+
