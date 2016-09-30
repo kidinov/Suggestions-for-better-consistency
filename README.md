@@ -45,7 +45,7 @@ Use **SP** instead of **DP** for text, but in places where hight must be set as 
 * **Strings**: *\<screen_name\>\_\<description\>*, for example: **profile_age** / **buy_now_description**. With that naming convention, there is no need to split strings file in many files. Strings can be just grouped toogether in one file. Generic names can be named just with description.
 * **Layout/Menu files**: *\<screen_name\>\_\<type\>*, for example: **profile_fragment** / **buy_now_list_item**
 * **View ids**: *\<screen_name\>\_\<type\>\_\<description\>*, for example: **profile_image_person** / **buy_now_text_sex_value**
-* **Drawables**: *\<type\>\_\<description\>\_\<color\>\_\<size\>*, for example: **ic_add_manual_measurement_white_24dp.
+* **Drawables**: *\<type\>\_\<description\>\_\<color\>\_\<size\>*, for example: **ic_add_manual_measurement_white_24dp**.
 * **Files**: *\<screen_name\>\_\<type\>*, for example: **ProfileFragment** / **ProfileListAdapter**
 
 ### File packaging
